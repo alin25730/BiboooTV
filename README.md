@@ -14,4 +14,11 @@
 *  DIY
 *  搜索功能
 
+## 应用图
+[](https://github.com/alin25730/BiboooTV/blob/main/image/C957F8FDA0B670B5B85F4B26B45A0AAC.jpg?raw=true)
+[](https://github.com/alin25730/BiboooTV/blob/main/image/ACAD55FA0AAF97E89696058F8BEF5095.jpg?raw=true)
+[](https://github.com/alin25730/BiboooTV/blob/main/image/A1CF57BFCACE7B286B61B01B0DF26D2C.jpg?raw=true)
+[](https://github.com/alin25730/BiboooTV/blob/main/image/FF89B030D7E73DAADC188E470C03DB46.jpg?raw=true)
+
+
 
