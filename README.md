@@ -18,6 +18,15 @@
 
 ![](https://github.com/alin25730/BiboooTV/blob/main/image/B46.png?raw=true)
 
+## 项目所用到的
+
+*  fijkplayer播放器
+*  Dio请求
+*  接口
+*  CustomSearchDelegate搜索器
+*  项目文件
+
+
 
 
 
